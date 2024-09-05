@@ -5,7 +5,6 @@ module.exports = {
       description: "Bans the use of class declarations. It's a new world.",
       url: "https://github.com/thescripted/no-class-declarations",
     },
-    fixable: "code",
     schema: [],
     messages: {
       noClassDeclaration: "unexpected class declaration: {{ identifier }}",
