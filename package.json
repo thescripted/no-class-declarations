@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-facts",
+  "version": "0.1.0",
+  "main": "eslint-plugin-facts.js",
+  "author": "thescripted",
+  "scripts": {
+    "test": "node no-class-declaration.test.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "license": "MIT",
+  "description": "Let's be real.",
+  "devDependencies": {
+    "eslint": "^9.9.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=9.0.0"
+  }
+}
