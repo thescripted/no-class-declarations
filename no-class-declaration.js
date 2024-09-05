@@ -3,7 +3,7 @@ module.exports = {
     type: "suggestion",
     docs: {
       description: "Bans the use of class declarations. It's a new world.",
-      url: "",
+      url: "https://github.com/thescripted/no-class-declarations",
     },
     fixable: "code",
     schema: [],
