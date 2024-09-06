@@ -1,8 +1,12 @@
 {
   "name": "eslint-plugin-facts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "eslint-plugin-facts.js",
   "author": "thescripted",
+  "files": [
+      "eslint-plugin-facts.js",
+      "no-class-declaration.test.js"
+  ],
   "scripts": {
     "test": "node no-class-declaration.test.js"
   },
