@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-facts",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "main": "eslint-plugin-facts.js",
   "author": "thescripted",
   "homepage": "https://github.com/thescripted/no-class-declarations#readme",
