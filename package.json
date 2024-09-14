@@ -9,7 +9,8 @@
     "no-class-declaration.js"
   ],
   "scripts": {
-    "test": "node no-class-declaration.test.js"
+    "test": "node no-class-declaration.test.js",
+	"publish": "bumpp"
   },
   "keywords": [
     "eslint",
