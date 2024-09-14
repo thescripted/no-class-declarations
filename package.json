@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-facts",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "eslint-plugin-facts.js",
   "author": "thescripted",
   "files": [
@@ -17,6 +17,10 @@
   ],
   "license": "MIT",
   "description": "Let's be real.",
+  "repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/thescripted/no-class-declarations"
+  },
   "devDependencies": {
     "eslint": "^9.9.1"
   },
