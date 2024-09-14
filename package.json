@@ -4,8 +4,8 @@
   "main": "eslint-plugin-facts.js",
   "author": "thescripted",
   "files": [
-      "eslint-plugin-facts.js",
-      "no-class-declaration.js"
+    "eslint-plugin-facts.js",
+    "no-class-declaration.js"
   ],
   "scripts": {
     "test": "node no-class-declaration.test.js"
@@ -18,8 +18,8 @@
   "license": "MIT",
   "description": "Let's be real.",
   "repository": {
-	  "type": "git",
-	  "url": "git+https://github.com/thescripted/no-class-declarations"
+    "type": "git",
+    "url": "git+https://github.com/thescripted/no-class-declarations.git"
   },
   "devDependencies": {
     "eslint": "^9.9.1"
